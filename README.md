@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajeet Baghel</h1>
+<h1 align="center">Namaste 👋, I'm Ajeet Baghel</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9B7&center=true&vCenter=true&width=650&lines=A+Computer+Science+Engineer;Backend+%7C+Full-Stack+%7C+AI+Enthusiast;Love+building+and+exploring+technology" alt="Typing SVG" />
